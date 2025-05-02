@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Robert Caliman!
 
-<!--
-**RobertCalimanP/RobertCalimanP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Tenho 43 anos e estou em transição de carreira para a área da programação.**  
+📚 Atualmente, estudo no **DevClub** e estou aprendendo:
 
-Here are some ideas to get you started:
+- 🌐 **HTML**
+- 🎨 **CSS**
+- 🛠️ **JavaScript** (iniciante)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Experiência profissional
+Tenho mais de 15 anos de experiência nas áreas de:
+
+- Vendas
+- Manutenção automotiva
+- Operação de máquinas pesadas
+
+Agora, estou focado em desenvolver minhas habilidades como programador e construir uma nova trajetória na área de tecnologia.  
+
+---
+
+### 🚀 Objetivos
+
+- Praticar todos os dias
+- Construir projetos próprios
+- Conquistar minha primeira oportunidade na área de desenvolvimento
+
+---
+
+### 📫 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/robert-calima)
+
+---
+
+✨ _"Nunca é tarde para recomeçar. A cada linha de código, um novo futuro se constrói."_  
+
+
