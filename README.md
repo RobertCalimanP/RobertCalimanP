@@ -7,6 +7,8 @@
 - 🎨 **CSS**
 - 🛠️ **JavaScript** (iniciante)
 
+- [![Robert Caliman stats](https://github-readme-stats.vercel.app/api?username=RobertCalimanP)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 💼 Experiência profissional
