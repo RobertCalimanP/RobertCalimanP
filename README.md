@@ -32,7 +32,7 @@ Agora, estou focado em desenvolver minhas habilidades como programador e constru
 
 ### 📫 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/robert-calima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/robert-caliman)
 
 ---
 
